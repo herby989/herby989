@@ -6,7 +6,7 @@
 
 ##
 
-<div align="center" dir="auto">
+<div style="display: inline_block">
   <a href="https://github.com/herby989">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herby989&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herby989&layout=compact&langs_count=16&theme=dark"/>
