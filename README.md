@@ -3,7 +3,7 @@
 - 🖥️ Formado em Redes de computadores
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🧑‍💼 Procurando uam oportunidade na area de desenvolvimento
-
+</br>
 ##
 
 <div align="center" dir="auto">
@@ -11,6 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herby989&show_icons=true&theme=aura&include_all_commits=true&count_private=true" max-width: "100%"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herby989&layout=compact&langs_count=8&theme=aura&card_width=50" max-width: "100%"/>
 </div>
+ 
+ </br>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Herby-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
