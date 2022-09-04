@@ -3,7 +3,7 @@
 - 🖥️ Formado em Redes de computadores
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🧑‍💼 Procurando uam oportunidade na area de desenvolvimento
-</br>
+<br>
 ##
 
 <div align="center" dir="auto">
@@ -20,8 +20,7 @@
  <img align="center" alt="Herby-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  <img align="center" alt="Herby-php" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"> 
 
-  <img align="right" alt="Herby-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
-</div>
+<div>
 
 ##
 
