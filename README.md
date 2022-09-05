@@ -2,7 +2,7 @@
  
 - 🖥️ Formado em Redes de computadores
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
-- 🧑‍💼 Procurando uam oportunidade na área de desenvolvimento
+- 🧑‍💼 Procurando uma oportunidade na área de desenvolvimento
 
 ##
 
